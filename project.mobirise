@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "marketing analytics",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -273,7 +273,7 @@
     },
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "google-analytics": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P7SCLP76\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
+    "google-analytics": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-P7SCLP76');</script>\n<!-- End Google Tag Manager -->\n\n<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P7SCLP76\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
     "cookiesAlert": false
   },
   "pages": {
@@ -2223,7 +2223,7 @@
         }
       ]
     },
-    "page2.html": {
+    "google-analytics-data-analysis.html": {
       "settings": {
         "title": "Google Analytics Data Analysis: Why It's Essential for Your Business",
         "order": "1"
@@ -3183,7 +3183,7 @@
         }
       ]
     },
-    "page3.html": {
+    "ga4-dashboards-with-looker.html": {
       "settings": {
         "title": "Unveiling User Insights: Building Powerful GA4 Dashboards with Looker Studio",
         "order": "2"
@@ -4143,7 +4143,7 @@
         }
       ]
     },
-    "page4.html": {
+    "setup-ga4-account.html": {
       "settings": {
         "title": "Conquering Conversion Tracking: Setting Up Your Google Analytics 4 Account",
         "order": "3"
