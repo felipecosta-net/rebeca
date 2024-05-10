@@ -258,7 +258,7 @@
     ],
     "uniqCompNum": 20,
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/captura-de-ecra-2024-04-26-as-21.12.14-128x72.png",
     "mbrsiteDomain": "esnurnoidx",
     "usedWebp": false,
     "robotsSwitcher": false,
