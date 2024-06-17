@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://lesincompetents.fun/index</loc>
+    </url>    
+    <url>
         <loc>https://lesincompetents.fun/ga4-dashboards-with-looker</loc>
     </url>
     <url>
@@ -8,6 +11,9 @@
     </url>
     <url>
         <loc>https://lesincompetents.fun/setup-ga4-account</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/index</loc>
     </url>
     <url>
         <loc>https://lesincompetents.fun/content/posts/changing-landscape-of-web-analytics</loc>
