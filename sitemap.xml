@@ -1,46 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://lesincompetentes.fun/sitemap.xml/index.html</loc>
-	</url>
-	<url>
-		<loc>https://lesincompetentes.fun/sitemap.xml/google-analytics-data-analysis.html</loc>
-	</url>
-	<url>
-		<loc>https://lesincompetentes.fun/sitemap.xml/ga4-dashboards-with-looker.html</loc>
-	</url>
-	<url>
-		<loc>https://lesincompetents.fun/sitemap.xml/content/posts/changing-landscape-of-web-analytics.html</loc>
-	</url>
-	<url>
-		<loc>https://lesincompetents.fun/sitemap.xml/content/posts/ensuring-data-accuracy.html</loc>
-	</url>
-<url>
-		<loc>https://lesincompetents.fun/sitemap.xml/content/posts/how-to-properly-set-up-web-analytics-tools.html</loc>
-	</url>
-<url>
-		<loc>https://lesincompetents.fun/sitemap.xml/content/posts/identifying-key-performance-indicators.html</loc>
-	</url>
-<url>
-		<loc>ttps://lesincompetents.fun/sitemap.xml/content/posts/integrating-web-analytics-data.html</loc>
-	</url>
-<url>
-		<loc>https://lesincompetents.fun/sitemap.xml/content/posts/making-informed-decisions.html</loc>
-	</url>
-<url>
-		<loc>https://lesincompetents.fun/sitemap.xml/content/posts/privacy-concerns.html</loc>
-	</url>
-<url>
-		<loc>https://lesincompetents.fun/sitemap.xml/content/posts/understanding-and-interpreting-web-analytics-data.html</loc>
-	</url>
-<url>
-		<loc>https://lesincompetents.fun/sitemap.xml/content.html</loc>
-	</url>
-
-
-
-
-
-
-
-
+    <url>
+        <loc>https://lesincompetents.fun/ga4-dashboards-with-looker</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/google-analytics-data-analysis</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/setup-ga4-account</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/changing-landscape-of-web-analytics</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/ensuring-data-accuracy</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/how-to-properly-set-up-web-analytics-tools</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/identifying-key-performance-indicators</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/integrating-web-analytics-data</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/making-informed-decisions</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/privacy-concerns</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/understanding-and-interpreting-web-analytics-data</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/the-evolution-of-web-analytics</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/advanced-google-analytics-features</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/understanding-the-importance-of-data-visualization</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/deep-dive-into-user-behavior-analysis</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/leveraging-web-analytics-for-e-commerce</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/exploring-the-role-of-artificial-intelligence-in-web-analytics</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/web-analytics-best-practices-for-small-businesses</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/demystifying-conversion-tracking-in-web-analytics</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/impact-of-mobile-responsiveness-on-web-analytics-data</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/web-analytics-metrics-that-matter-for-content-marketing</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/harnessing-the-power-of-heatmaps-in-web-analytics</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/enhancing-seo-strategies-using-web-analytics-insights</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/improving-website-performance-based-on-analytics</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/future-of-predictive-analytics-in-web-development</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/personalization-strategies-driven-by-web-analytics-data</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/comparison-google-adobe-analytics</loc>
+    </url>
+    <url>
+        <loc>https://lesincompetents.fun/content/posts/case-study-how-web-analytics-transformed-business</loc>
+    </url>
 </urlset>
