@@ -1,2 +1,5 @@
 User-agent: *
-Disallow:
+Allow: /
+
+# Localização do Sitemap
+Sitemap: https://lesincompetents.fun/sitemap.xml
